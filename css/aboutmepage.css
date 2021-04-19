@@ -1,0 +1,65 @@
+body{
+	background-image: linear-gradient(to bottom right, #131f40, #4a87b7) ;
+	margin: 0px;
+}
+
+header img{
+	border-radius: 200px;
+	width: 300px
+}
+header{
+	padding: 0;
+	text-align: center;
+}
+header h1{
+	font-size: 50px;
+	color: white;
+	font-family: 'Noto Serif JP', serif;
+}
+main{
+	max-width: 1000px;
+	text-align: center;
+	margin: 0 auto;
+	padding: 0;
+}
+main h3{
+	font-size: 20px;
+	color: white;
+	font-family: 'Montserrat', sans-serif;
+}
+main h2{
+	font-size: 30px;
+	color: white;
+	font-family: 'Noto Serif JP', serif;
+}
+footer h3{
+	font-size: 14px;
+	color: white;
+	padding-top: 100px;
+	margin: 20px;
+	font-family: 'Ubuntu', sans-serif;
+}
+footer a{
+	font-size: 14px;
+	color: white;
+	font-family: 'Ubuntu', sans-serif;
+}
+nav{
+	background-color: black;
+	margin: 25px;
+	text-align: center;
+}
+nav ul{
+	list-style: none;
+	margin: 0px;
+}
+nav li{
+	margin: 20px;
+	display: inline-block;
+	font-family: 'Ubuntu', sans-serif;
+	font-size: 24px;
+	color: #00F2FF;
+}
+nav a{
+	color: #00F2FF;
+}

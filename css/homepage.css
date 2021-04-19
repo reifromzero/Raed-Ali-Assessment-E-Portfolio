@@ -1,0 +1,48 @@
+main h1{
+	color: white;
+	font-size: 60px;
+	font-family: 'Noto Serif JP', serif;
+}
+main h2{
+	color: white;
+	font-size: 30px;
+	font-family: 'Montserrat', sans-serif;
+	padding-top: 20px;
+}
+main{
+	margin: 0 auto;
+	text-align: center;
+	padding-top: 100px;
+	max-width: 700px;
+}
+footer h3{
+	font-size: 15px;
+	color: white;
+	padding-top: 240px;
+	font-family: 'Ubuntu', sans-serif;
+
+}
+nav{
+	background-color: black;
+	margin: 25px;
+	text-align: center;
+}
+nav ul{
+	list-style: none;
+	margin: 0px;
+}
+nav li{
+	margin: 20px;
+	display: inline-block;
+	font-family: 'Ubuntu', sans-serif;
+	font-size: 24px;
+	color: #00F2FF;
+}
+nav a{
+	color: #00F2FF;
+}
+footer a{
+	font-size: 15px;
+	color: white;
+	font-family: 'Ubuntu', sans-serif;
+}
