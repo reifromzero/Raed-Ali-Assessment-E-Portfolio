@@ -18,7 +18,7 @@ main{
 footer{
 	font-size: 15px;
 	color: white;
-	padding: 25px;
+	margin: 25px;
 	padding-top: 260px;
 
 }
@@ -46,7 +46,7 @@ footer a, h3{
 	color: white;
 	font-family: 'Ubuntu', sans-serif;
 }
-header{
+body{
 	margin: 0 auto;
-	padding: 0px;
+	padding: 0;
 }
