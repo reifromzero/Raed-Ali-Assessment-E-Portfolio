@@ -46,7 +46,7 @@ footer a, h3{
 	color: white;
 	font-family: 'Ubuntu', sans-serif;
 }
-body{
+header{
 	margin: 0 auto;
-	padding: 0;
+	padding: 0px;
 }
