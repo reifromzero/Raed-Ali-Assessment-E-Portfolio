@@ -63,3 +63,11 @@ nav li{
 nav a{
 	color: #00F2FF;
 }
+main li{
+	font-size: 20px;
+	color: white;
+	font-family: 'Montserrat', sans-serif;
+}
+main ul{
+	list-style: none;
+}
